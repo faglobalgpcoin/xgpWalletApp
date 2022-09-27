@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "416875072704",
+    "firebase_url": "https://dmwwallet.firebaseio.com",
+    "project_id": "dmwwallet",
+    "storage_bucket": "dmwwallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416875072704:android:096fe88dbe1f38505a3125",
+        "android_client_info": {
+          "package_name": "com.gp.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416875072704-9ukfe5vu947a4v0e8vtpoipsvjvd5vre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5DQwq_3tC9VeXdsej4YaZnsHf8ZxT0WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416875072704-9ukfe5vu947a4v0e8vtpoipsvjvd5vre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416875072704:android:4c8aab35dc3ecc985a3125",
+        "android_client_info": {
+          "package_name": "com.gp.dmwwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416875072704-9ukfe5vu947a4v0e8vtpoipsvjvd5vre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5DQwq_3tC9VeXdsej4YaZnsHf8ZxT0WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416875072704-9ukfe5vu947a4v0e8vtpoipsvjvd5vre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416875072704:android:04e32adc4851033a5a3125",
+        "android_client_info": {
+          "package_name": "com.gpmainnet.dmwwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416875072704-9ukfe5vu947a4v0e8vtpoipsvjvd5vre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5DQwq_3tC9VeXdsej4YaZnsHf8ZxT0WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416875072704-9ukfe5vu947a4v0e8vtpoipsvjvd5vre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
